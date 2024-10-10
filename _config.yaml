@@ -6,3 +6,9 @@ plugins:
 subtitle: "Version 2.0"
 name: "Michael Rose"
 description: "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+
+author:
+  name     : "Your Name"
+  avatar   : "/assets/teaser.avif"
+  bio      : "My awesome biography constrained to a sentence or two goes here."
+  location : "Somewhere, USA"
