@@ -1,1 +1,5 @@
-
+main:
+  - title: "Quick-Start Guide"
+    url: /about/
+  - title: "Posts"
+    url: /contact/
