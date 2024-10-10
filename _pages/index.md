@@ -6,7 +6,7 @@ permalink: /
 sidebar:
   sticky: true
 categories: blog
-teaser: "/assets/teaser.avif"
+teaser: "/assets/me.jpeg"
 ---
 # Welcome to My Website
 
