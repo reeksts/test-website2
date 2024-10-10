@@ -1,3 +1,7 @@
+---
+layout: single
+title: "Contact"
 permalink: /contact/
-
-Some content here
+---
+# Contact
+This is the contact page.
