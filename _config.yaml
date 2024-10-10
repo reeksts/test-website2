@@ -7,6 +7,19 @@ subtitle: "Version 2.0"
 name: "Michael Rose"
 description: "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
 author:
   name     : "Your Name"
   avatar   : "/assets/teaser.avif"
