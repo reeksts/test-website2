@@ -3,6 +3,8 @@ layout: single  # Use the "single" layout, which supports the author profile
 title: "Welcome to My Website"
 author_profile: true  # Enable the author profile
 permalink: /
+sidebar:
+  sticky: true
 ---
 # Welcome to My Website
 
