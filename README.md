@@ -1,1 +1,3 @@
-# test-website2
+[About Me]({{ site.baseurl }}/about/)
+
+[Contact]({{ site.baseurl }}/contact/)
