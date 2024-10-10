@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Welcome to My Website"
-permalink: /
+permalink: /about/
 classes:
   - landing
   - dark-theme
