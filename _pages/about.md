@@ -1,3 +1,7 @@
+---
+layout: single
+title: "About Me"
 permalink: /about/
-
-Some content here
+---
+# About Me
+This is my about page.
